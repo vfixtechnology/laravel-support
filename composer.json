@@ -45,7 +45,6 @@
         "spatie/laravel-sluggable": "^3.4.0",
         "spatie/laravel-schemaless-attributes": "^2.4.0",
         "spatie/laravel-translatable": "^6.0.0",
-        // CHANGE THIS LINE:
         "vinkla/hashids": "dev-master", 
         "watson/validating": "^8.0.0"
     },
